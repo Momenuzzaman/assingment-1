@@ -110,3 +110,17 @@ section {
   text-align: center;
   padding: 50px;
 }
+
+.main {
+  width: 50%;
+  height: 50%;
+  margin: 200px;
+}
+
+.test {
+  background-image: url("img/last.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
