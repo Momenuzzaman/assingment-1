@@ -124,3 +124,12 @@ section {
   width: 100%;
   height: 100%;
 }
+.button-2 {
+  background-color: orange;
+  padding: 15px;
+  font-size: 25px;
+  border-radius: 10px;
+}
+.test__content {
+  justify-content: space-between;
+}
